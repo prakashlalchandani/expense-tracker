@@ -1,11 +1,5 @@
-/__pycache__# Python junk
 __pycache__/
 *.py[cod]
-
-# Database
 *.db
 sql_app.db
-
-# Virtual Environment (if you have one)
 learning/
-.env

@@ -14,7 +14,7 @@ class User(Base):
 class Expense(Base):
     
     # name of the table in the database
-    __tablename__= "expense"
+    __tablename__= "expenses"
 
     # columns (spreadsheet headers)
     id = Column(Integer, primary_key=True, index=True)
