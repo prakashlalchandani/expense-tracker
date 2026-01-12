@@ -1,0 +1,1 @@
+This is an Expense Tracker built with FastAPI. To run: uvicorn main:app --reload
